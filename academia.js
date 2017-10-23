@@ -48,7 +48,7 @@ function nombreCompleto(alumno) {
     return nombre;
 }
 
-/**
+/**PENES
   * @description Función que nos devuelve la lista de alumnos que pertenecen al curso indicado
   * @param {string} curso Nombre del curso en el que queremos buscar alumnos
   * @param {array} listaAlumnos Array que contiene objetos alumno
